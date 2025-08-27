@@ -1,0 +1,10 @@
+#  1. Introducción Individual
+ Objetivo: Aprender los fundamentos de Git y GitHub.
+ - Crear una cuenta en GitHub.
+ - Instalar y configurar Git en sus computadoras (incluyendo SSH o usuario/contraseña).
+ - Clonar un repositorio público simple (puedes crear uno con ejemplos).
+ - Realizar un commit inicial en un proyecto propio:
+ - Crear un repositorio local.
+ - Hacer al menos 3 commits documentando el progreso de un pequeño proyecto (puede ser un "Hola Mundo" en su 
+lenguaje de preferencia).
+ - Subir el repositorio a GitHub.
